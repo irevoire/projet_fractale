@@ -1,0 +1,6 @@
+--------
+Points
+--------
+
+.. automodule:: points
+   :members:

@@ -1,0 +1,6 @@
+--------
+Fractals
+--------
+
+.. automodule:: fractals
+   :members:

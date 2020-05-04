@@ -1,0 +1,6 @@
+--------
+Circles
+--------
+
+.. automodule:: circles
+   :members:

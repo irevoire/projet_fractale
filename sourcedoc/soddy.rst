@@ -1,0 +1,6 @@
+--------
+Soddy
+--------
+
+.. automodule:: soddy
+   :members:
