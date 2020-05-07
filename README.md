@@ -1,7 +1,7 @@
 Projet Fractale
 ===============
 
-This is a one month project I did with @Hetoxys in 2015 during our first year of computer science.
+This is a one month project I did with [@Hetoxys](https://github.com/hetoxys) in 2015 during our first year of computer science.
 
 | ![multiple examples of what you can get with this repo](https://imgur.com/qfrvU6s.png) | ![](https://imgur.com/NRXTLES.png) |
 | :-------------: |:-------------:|
